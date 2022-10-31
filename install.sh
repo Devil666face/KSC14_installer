@@ -66,4 +66,5 @@ sudo systemctl restart kladminserver_srv
 
 # Копируем файл сертификата
 sudo cp /var/opt/kaspersky/klnagent_srv/1093/cert/klserver.cer $HOME/klserver.cer
+sudo chmod 777 klserver.cer
 echo "Установка завершена. Для подключения через MMC консоль скопируйте сертификат klserver.cer"
