@@ -1,0 +1,5 @@
+#deb [arch=amd64, trusted=yes] http://10.148.2.25:80/apt/apt-mirror/astra/mirror/dl.astralinux.ru/astra/stable/1.7_x86-64/repository-base 1.7_x86-64 main contrib non-free
+#deb [arch=amd64, trusted=yes] http://10.148.2.25:80/apt/apt-mirror/astra/mirror/dl.astralinux.ru/astra/stable/1.7_x86-64/repository-main 1.7_x86-64 main contrib non-free
+#deb [arch=amd64, trusted=yes] http://10.148.2.25:80/apt/apt-mirror/astra/mirror/dl.astralinux.ru/astra/stable/1.7_x86-64/repository-update 1.7_x86-64 main contrib non-free
+deb [arch=amd64, trusted=yes] http://10.148.2.25:80/apt/apt-mirror/astra/mirror/dl.astralinux.ru/astra/stable/1.7_x86-64/repository-extended 1.7_x86-64 main contrib non-free
+

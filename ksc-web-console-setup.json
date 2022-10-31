@@ -1,0 +1,6 @@
+{
+	"address":"127.0.0.1",
+	"port":8080,
+	"trusted":"127.0.0.1|13299|/var/opt/kaspersky/klnagent_srv/1093/cert/klserver.cer|KSC Server",
+	"acceptEula":true
+}
