@@ -2,18 +2,14 @@
 
 ## Description
 Данный скрипт позволяет установить KSC 14 Linux c развертыванием БД mariadb на локальной машине.
+
 ### Состав репозитория
-install.sh - установочный скрипт
-
-ksc64_14.0.0-4490_amd64.deb - деб пакет ksc
-
-ksc-web-console-14.0.1330.x86_64.deb - деб пакет веб консоли
-
-ksc-web-console-setup.json - файл настроек веб консоли
-
-mariadb.cnf - конфиг для маридб
-
-sources.list - файл с репозиториями из /etc/apt/
+- **install.sh** - установочный скрипт
+- **ksc64_14.0.0-4490_amd64.deb** - деб пакет ksc
+- **ksc-web-console-14.0.1330.x86_64.deb** - деб пакет веб консоли
+- **ksc-web-console-setup.json** - файл настроек веб консоли
+- **mariadb.cnf** - конфиг для маридб
+- **sources.list** - файл с репозиториями из /etc/apt/
 
 ## Requirements
 1.  Astra Linux 1.7 (Возможно подойдут и версии ниже)
